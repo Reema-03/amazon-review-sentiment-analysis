@@ -113,6 +113,17 @@ Machine learning models using TF-IDF performed well because they learned pattern
 4. Run all notebook cells from top to bottom.
 5. Check the model comparison table and final evaluation results.
 
+## Visualizations
+
+### Sentiment Distribution
+![Sentiment Distribution](images/sentiment_distribution.png)
+
+### Model Comparison
+![Model Comparison](images/model_comparison.png)
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
 
 
 ## Future Improvements
